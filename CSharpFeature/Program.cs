@@ -1,10 +1,13 @@
 ﻿using CSharpFeature.CSharp11Features;
 
 // Raw String literals
-StringFeatures.StringLiterals();
+//StringFeatures.StringLiterals();
 
 //Raw String literals with String interpolation
-StringFeatures.StringLiteralsWithInterpolation();
+//StringFeatures.StringLiteralsWithInterpolation();
 
 // String Expressions
-StringFeatures.StringExpressions();
+//StringFeatures.StringExpressions();
+
+// Method group Conversions
+MethodGroupConvertions.Assertions();
